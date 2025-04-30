@@ -4,7 +4,7 @@
 ✉️ **Contact:** [dumitritagorgan9@gmail.com](mailto:dumitritagorgan9@gmail.com)
 
 ## Technologies
-💻 **Programming Languages:** PHP, JavaScript, Java, CSS, HTML  
+💻 **Programming Languages:** PHP, JavaScript, Java
 🛠 **Frameworks:** Laravel, Spring, Angular  
 📦 **Other Technologies:** Docker, Git, SQL
 
